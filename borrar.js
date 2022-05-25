@@ -1,1 +1,1 @@
-sdvzdv
+const borrar = require('borrar');
